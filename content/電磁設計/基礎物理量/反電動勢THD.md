@@ -12,3 +12,6 @@ tags: [馬達, 電磁設計]
 ## 相關知識點
 
 ## 設計注意事項
+
+## 相關文章
+→ [How to Measure Motor Back-EMF THD with FFT](https://0zhen.github.io/posts/how-to-measure-motor-back-emf-thd-with-fft/)
