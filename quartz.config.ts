@@ -8,14 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "馬達學習地圖",
+    pageTitleSuffix: " | 0箴",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-YSGNYKJEB2",
     },
-    locale: "en-US",
+    locale: "zh-TW",
     baseUrl: "0zhen.github.io/motor-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
