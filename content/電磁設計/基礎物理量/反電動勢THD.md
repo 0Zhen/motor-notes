@@ -27,3 +27,5 @@ THD = √(ΣVh², h≥2) / V1 × 100%
 ## 相關文章
 
 → [How to Measure Motor Back-EMF THD with FFT](https://0zhen.github.io/posts/how-to-measure-motor-back-emf-thd-with-fft/)
+
+→ [FFT 頻譜分析完全解析：窗函數、補零與 THD 計算](https://0zhen.github.io/posts/2026-03-23/)
