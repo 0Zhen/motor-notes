@@ -10,6 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "馬達學習地圖",
     pageTitleSuffix: " | 0箴",
+    description: "馬達設計工程師的知識地圖，涵蓋電磁設計、繞線、矽鋼片、永磁材料等核心概念，每個知識點都有定義、公式與設計注意事項。",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -1,6 +1,7 @@
 ---
 title: PMa-SynRM（永磁輔助同步磁阻馬達）
 tags: [馬達, 馬達拓樸]
+description: "Permanent Magnet assisted SynRM，在 SynRM 轉子磁障中嵌入少量永磁體，同時利用磁阻轉矩與永磁轉矩。"
 ---
 
 ## 一句話定義

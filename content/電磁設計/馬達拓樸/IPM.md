@@ -1,6 +1,7 @@
 ---
 title: IPM（內嵌式永磁馬達）
 tags: [馬達, 馬達拓樸]
+description: "Interior Permanent Magnet Motor，永磁體埋入轉子內部的永磁同步馬達。"
 ---
 
 ## 一句話定義

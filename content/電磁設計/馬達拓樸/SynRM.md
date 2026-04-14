@@ -1,6 +1,7 @@
 ---
 title: SynRM（同步磁阻馬達）
 tags: [馬達, 馬達拓樸]
+description: "Synchronous Reluctance Motor，無永磁體，純靠 Ld/Lq 差值（磁阻轉矩）運轉的同步馬達。"
 ---
 
 ## 一句話定義

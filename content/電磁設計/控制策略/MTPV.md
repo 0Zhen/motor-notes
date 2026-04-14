@@ -1,6 +1,7 @@
 ---
 title: MTPV（最大電壓轉矩比）
 tags: [馬達, 控制策略]
+description: "Maximum Torque Per Voltage，在電壓限制下，選擇最優電流角以在深度弱磁區獲得最大轉矩。"
 ---
 
 ## 一句話定義

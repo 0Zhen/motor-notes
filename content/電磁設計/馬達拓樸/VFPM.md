@@ -1,6 +1,7 @@
 ---
 title: VFPM（可變磁通永磁馬達）
 tags: [馬達, 馬達拓樸]
+description: "Variable Flux Permanent Magnet Motor，使用低矯頑磁力永磁體（如 AlNiCo），可透過脈衝電流動態調整磁通量。"
 ---
 
 ## 一句話定義

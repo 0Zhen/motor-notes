@@ -1,6 +1,7 @@
 ---
 title: TRV（轉子體積轉矩）
 tags: [馬達, 電磁設計]
+description: "Torque per Rotor Volume，單位轉子體積的輸出轉矩，消除尺寸差異後的設計比較基準。"
 ---
 
 ## 一句話定義

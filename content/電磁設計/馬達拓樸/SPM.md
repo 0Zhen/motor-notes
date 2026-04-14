@@ -1,6 +1,7 @@
 ---
 title: SPM（表貼式永磁馬達）
 tags: [馬達, 馬達拓樸]
+description: "Surface Permanent Magnet Motor，永磁體貼附於轉子表面的永磁同步馬達。"
 ---
 
 ## 一句話定義

@@ -1,6 +1,7 @@
 ---
 title: MTPA（最大電流轉矩比）
 tags: [馬達, 控制策略]
+description: "Maximum Torque Per Ampere，在給定電流幅值下，選擇最優 id/iq 分配以獲得最大轉矩。"
 ---
 
 ## 一句話定義

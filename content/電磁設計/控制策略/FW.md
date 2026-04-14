@@ -1,6 +1,7 @@
 ---
 title: FW（弱磁控制）
 tags: [馬達, 控制策略]
+description: "Field Weakening，在高速區注入負 d 軸電流，削弱氣隙磁通以使反電動勢不超過直流母線電壓。"
 ---
 
 ## 一句話定義
