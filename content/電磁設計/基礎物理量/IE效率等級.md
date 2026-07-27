@@ -26,4 +26,4 @@ $\eta_n = \dfrac{1}{(\frac{1}{\eta_{ref}}-1)(1+r_{HL})+1}$，$r_{HL}$=15%（≤9
 
 ## 相關文章
 
-→ [幫馬達選型系統加 IE 效率等級之前，先被這份標準上了一課](https://0zhen.github.io/posts/iec-60034-30-2-efficiency-class/)
+→ [如何判斷馬達的 IEC 效率等級（IE1~IE5）：標準選擇、量測基準與常見誤區](https://0zhen.github.io/posts/iec-60034-30-2-efficiency-class/)
