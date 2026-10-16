@@ -24,6 +24,10 @@ THD = √(ΣVh², h≥2) / V1 × 100%
 
 可透過斜槽、優化磁極形狀或分數槽設計降低 THD。
 
+## 線上工具
+
+→ [FFT Analyser 頻譜分析工具](https://0zhen.github.io/motor-toolkit/tools/fft-analyser/)
+
 ## 相關文章
 
 → [How to Measure Motor Back-EMF THD with FFT](https://0zhen.github.io/posts/how-to-measure-motor-back-emf-thd-with-fft/)

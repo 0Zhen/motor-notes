@@ -23,3 +23,7 @@ description: "線圈兩個有效邊所跨越的槽數，決定繞組的節距因
 ## 設計注意事項
 
 分數槽集中繞的節距固定為 1，節距因數由槽極配合關係決定。
+
+## 線上工具
+
+→ [Winding Designer 繞組設計工具](https://0zhen.github.io/motor-toolkit/tools/winding-designer/)

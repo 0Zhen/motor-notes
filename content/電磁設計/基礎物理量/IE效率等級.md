@@ -24,6 +24,10 @@ $\eta_n = \dfrac{1}{(\frac{1}{\eta_{ref}}-1)(1+r_{HL})+1}$，$r_{HL}$=15%（≤9
 
 `60034-30-2` 明文排除「與被驅動機構一體、無法拆開單獨測試」的設計（原文點名 pump/fan/compressor），馬達本體效率地圖須為獨立測試數據才適用；門檻表假設連續運轉（S1），頻繁啟停的運轉型態不適合直接套用。
 
+## 線上工具
+
+→ [Efficiency Map 效率地圖產生器](https://0zhen.github.io/motor-toolkit/tools/efficiency-map/)
+
 ## 相關文章
 
 → [如何判斷馬達的 IEC 效率等級（IE1~IE5）：標準選擇、量測基準與常見誤區](https://0zhen.github.io/posts/iec-60034-30-2-efficiency-class/)
